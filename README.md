@@ -12,3 +12,7 @@ Un lecteur de musique avec le framework Reactjs.
 ```bash
 npm start
 ```
+
+## Lien du projet
+
+https://kaniha-h.github.io/react-music-player/

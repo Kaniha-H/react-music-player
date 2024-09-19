@@ -1,6 +1,6 @@
 # React Music Player
 
-Un lecteur de musique avec le framework Reactjs.
+lecteur de musique avec React.
 
 ## Pré-requis
 
@@ -10,6 +10,7 @@ Un lecteur de musique avec le framework Reactjs.
 ## Commande pour lancer le projet:
 
 ```bash
+npm install
 npm start
 ```
 
